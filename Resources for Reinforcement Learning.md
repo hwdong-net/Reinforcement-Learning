@@ -11,3 +11,5 @@
 [https://www.cse.unsw.edu.au/~cs9417ml/RL1/introduction.html](https://www.cse.unsw.edu.au/~cs9417ml/RL1/introduction.html)
 
 [http://www-anw.cs.umass.edu/rlr/](http://www-anw.cs.umass.edu/rlr/)
+
+[http://web.stanford.edu/class/cs234/schedule.html](http://web.stanford.edu/class/cs234/schedule.html)
