@@ -1,6 +1,9 @@
+
 [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 
 [https://github.com/ZhiqiangHo/awesome-reinforcement-learning](https://github.com/ZhiqiangHo/awesome-reinforcement-learning)
+
+#### courses:
 
 [http://rail.eecs.berkeley.edu/deeprlcourse/](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
@@ -13,3 +16,5 @@
 [http://www-anw.cs.umass.edu/rlr/](http://www-anw.cs.umass.edu/rlr/)
 
 [http://web.stanford.edu/class/cs234/schedule.html](http://web.stanford.edu/class/cs234/schedule.html)
+
+[RL — Reinforcement Learning Algorithms Quick Overview](https://medium.com/@jonathan_hui/rl-model-based-reinforcement-learning-3c2b6f0aa323)
