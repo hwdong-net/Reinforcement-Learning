@@ -18,3 +18,7 @@
 [http://web.stanford.edu/class/cs234/schedule.html](http://web.stanford.edu/class/cs234/schedule.html)
 
 [RL — Reinforcement Learning Algorithms Quick Overview](https://medium.com/@jonathan_hui/rl-model-based-reinforcement-learning-3c2b6f0aa323)
+
+#### pytorch
+
+[https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
